@@ -1,0 +1,12 @@
+[submodule "microservices/temperature-management"]
+	path = microservices/temperature-management
+	url = https://github.com/italodev77/TempAppSensor-temperature-management.git
+[submodule "microservice/temperature-monitoring"]
+	path = microservice/temperature-monitoring
+	url = https://github.com/italodev77/TempAppSensor-temperature-monitoring.git
+[submodule "microservice/temperature-processing"]
+	path = microservice/temperature-processing
+	url = https://github.com/italodev77/TempAppSensor-temperature-processing.git
+[submodule "microservice/temperature-management"]
+	path = microservice/temperature-management
+	url = https://github.com/italodev77/TempAppSensor-temperature-management.git
